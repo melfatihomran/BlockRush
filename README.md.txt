@@ -1,6 +1,6 @@
 # BlockRush
 
-A minimalistic endless runner game inspired by Subway Surfers.
+A minimalistic runner game inspired by Smash Hit.
 
 ## Features
 - 4 Level obstacle avoidance gameplay
